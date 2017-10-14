@@ -4,6 +4,6 @@ let scoreElement = document.getElementById("score");
 
 cookieElement.addEventListener("click", function()
 { score ++;
-  scoreElement.textContent = score + " times u are wasting your life away";
+  scoreElement.textContent = score + " targets hit";
 });
 
